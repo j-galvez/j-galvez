@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, still trying to figure out how to make my profile pretty👋
 
 <!--
 **j-galvez/j-galvez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
